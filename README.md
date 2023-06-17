@@ -12,7 +12,7 @@ The Focus app is a mobile application built using React Native that helps users 
 
 To install and run the Focus app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/focus-app.git`
+1. Clone the repository: `git clone https://github.com/gadamsatti/focus-app.git`
 2. Navigate to the project directory: `cd focus-app`
 3. Install the dependencies: `npm install`
 4. Start the app: `npm start`
